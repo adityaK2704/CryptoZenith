@@ -18,6 +18,9 @@ This application is a purely backend application made by below Tech-stack. Basic
 5. Login & Register: Simple and secure user authentication. Two-Factor Authentication: Extra layer of security for user accounts. Forgot Password: Easy password recovery process.
 
 6. Cutting-Edge Technology Stack Our platform utilizes the latest technologies to ensure high performance, security, and scalability.
+
+## ER Diagram
+![crypto](https://github.com/user-attachments/assets/165cbe79-bc11-413a-a81a-862e8717aa20)
 ## Tech Stack
 
 Spring Boot 3   
