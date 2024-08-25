@@ -27,8 +27,6 @@ Spring Data JPA
 Java Mail Sender
 Coin Geko Api
 
-"C:\Users\HP\OneDrive\Documents\crypto.png"
-
 ## Payment gateway
 
 RazorPay
