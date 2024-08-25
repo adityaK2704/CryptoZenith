@@ -1,0 +1,14 @@
+{
+  "id": null,
+  "user": {
+    "id": 452,
+    "fullName": "amit",
+    "email": "amit@gmail.com",
+    "twoFactorAuth": {
+      "sendTo": null,
+      "enabled": false
+    },
+    "role": "ROLE_CUSTOMER"
+  },
+  "balance": null
+}
