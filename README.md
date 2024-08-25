@@ -33,8 +33,6 @@ RazorPay
 
 Stripe
 
-https://1drv.ms/i/c/0553f76750ef7360/EV7ujTXbbt1HvzRMqEzI5g8BeXReTspggwrw2EEO5jcaHA?e=ahbaMa
-
 ## Contributors
 
 adityak2704
